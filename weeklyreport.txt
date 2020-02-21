@@ -1,0 +1,42 @@
+#Notes: {
+Ngày khởi đầu là thứ Hai(đầu tuần)
+Ngày kế tiếp là thứ Sau (cuối tuần)
+        }
+
+
+
+Ngày 10/2-14/2: 
+
+Việc đã xong trong tuần
+1) Học xong khoá Python-Boot-Camp.
+2) Làm bài tập trong khoá học.
+3) Làm bài tập 1 & 2 của anh Tân về Python.
+
+Việc định làm tuần này:
+1) Học xong khoá front-end.
+2) Làm bài tập khoá front-end.
+3) Thực tập xây dựng một website, sử dụng bootstrap 4 để xây nên.
+
+Ngày 17/2: 
+
+Việc đã xong trong tuần:
+1) Học xong khoá front-end.
+2) Làm bài tập khoá front-end.
+3) Thực tập xây dựng một website, sử dụng bootstrap 4 để xây nên.
+
+Việc định làm tuần này:
+1) Thực tập tạo thêm 1 website.
+2) Tham khảo code Python.
+3) Đóng góp cho bài tập Python (xì-dách)
+
+Ngày 21/2: 
+
+Việc đã xong trong tuần :
+1) Học xong khoá front-end.
+2) Làm bài tập khoá front-end.
+3) Thực tập xây dựng một website, sử dụng bootstrap 4 để xây nên.
+
+Việc định làm tuần này:
+1) Thực tập tạo thêm 1 website.
+2) Tham khảo code Python.
+3) Đóng góp cho bài tập Python (xì-dách)

@@ -38,5 +38,4 @@ Việc đã xong trong tuần :
 
 Việc định làm tuần này:
 1) Thực tập tạo thêm 1 website.
-2) Tham khảo code Python.
-3) Đóng góp cho bài tập Python (xì-dách)
+2) Tham khảo thêm code Python.
